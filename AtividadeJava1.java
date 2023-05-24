@@ -10,7 +10,8 @@ import java.util.Scanner;
 
 public class AtividadeJava1 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		float salario, abono, novoSalario;
 		
 		Scanner leia = new Scanner(System.in);
