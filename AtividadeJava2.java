@@ -12,6 +12,7 @@ public class AtividadeJava2 {
 		float media, nota1, nota2, nota3, nota4;
 		
 		Scanner leia = new Scanner(System.in);
+		
 		System.out.println("Digite a nota 1:  "); 
 		nota1 = leia.nextFloat();
 		
