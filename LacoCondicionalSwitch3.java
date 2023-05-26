@@ -14,7 +14,7 @@ public class LacoCondicionalSwitch3 {
 		System.out.println("Informe o primeiro número: "); 
 		num1 = ler.nextFloat();
 		
-		System.out.println("Informe o segundo número: "); 
+		System.out.println("\nInforme o segundo número: "); 
 		num2 = ler.nextFloat();
 		
 		System.out.println("- Digite 1 para Soma.");
@@ -27,29 +27,29 @@ public class LacoCondicionalSwitch3 {
 		{
 		case 1:
 		{
-			System.out.println( +num1+" + "+num2+" = "+(num1+num2));
+			System.out.println("\n"+num1+" + "+num2+" = "+(num1+num2));
 		}
 			break;
 			
 		case 2:
 		{
-			System.out.println(+num1+" - "+num2+" = "+(num1-num2));
+			System.out.println("\n"+num1+" - "+num2+" = "+(num1-num2));
 		}
 			break;
 		case 3:
 		{
-			System.out.println(+num1+" * "+num2+" = "+(num1*num2));
+			System.out.println("\n"+num1+" * "+num2+" = "+(num1*num2));
 		}
 			break;
 			
 		case 4:
 		{
-			System.out.println(+num1+" / "+num2+" = "+(num1/num2));
+			System.out.println("\n"+num1+" / "+num2+" = "+(num1/num2));
 		}
 			break;
 			
 		default:
-			System.out.println("Operação inválida!");
+			System.out.println("\nOperação inválida!");
 		}
 	}
 }

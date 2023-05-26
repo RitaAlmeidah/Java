@@ -22,7 +22,8 @@ public class LacoCondicional_if2 {
 		
 		if(num % 2 == 0)
 		{
-			System.out.println("O número "+num+ " é Par, ");
+			System.out.println("O número "+num+ " é Par,");
+			
 		}	
 		else
 		{
