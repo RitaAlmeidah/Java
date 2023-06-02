@@ -14,9 +14,9 @@ public class AtividadeCollectionStackPilha {
 		String livro;
 		
 		System.out.println("\n\t1: Adicionar um novo livro na pilha\r\n"
-				+ "\t2: Listar todos os livros da Pilha\r\n"
-				+ "\t3: Retirar um livro da pilha\r\n"
-				+ "\t0: Sair\r\n");
+						+  "\t2: Listar todos os livros da Pilha\r\n"
+						+  "\t3: Retirar um livro da pilha\r\n"
+						+  "\t0: Sair\r\n");
 		
 		while(opcao != 0)
 		{

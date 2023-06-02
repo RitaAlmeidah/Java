@@ -28,9 +28,9 @@ public class AtividadeQueueFila1 {
 		String nome;
 		
 		System.out.println("\n\t1: Adicionar Cliente na fila\r\n"
-				+ "\t2: Listar todos os Clientes\r\n"
-				+ "\t3: Retirar Cliente da Fila\r\n"
-				+ "\t0: Sair\r\n");
+						+  "\t2: Listar todos os Clientes\r\n"
+						+  "\t3: Retirar Cliente da Fila\r\n"
+						+  "\t0: Sair\r\n");
 
 		
 		while(opcao != 0)
